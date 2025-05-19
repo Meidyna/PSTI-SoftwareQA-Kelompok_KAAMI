@@ -1,4 +1,7 @@
 # PSTI-SoftwareQA-Kelompok_KAAMI
+
+Aplikasi: Tix.id
+
 Kelompok KAAMI: 
 1. Meidiyana (22150610630)  
 2. Fadila Malika Sandi (2215061123) 
